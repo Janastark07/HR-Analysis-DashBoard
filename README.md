@@ -18,3 +18,6 @@ This is an interactive dashboards leverage an HR analytics platform to deeply ex
 
 ## Dashboard Interaction  
 <a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/HR%20ANALYSIS%20DASHBOARD.png">View Dashboard</a> 
+
+## Dashboard
+![HR ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/196870fa-7c8a-4258-865a-851e0437c809)
