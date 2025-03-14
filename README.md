@@ -16,6 +16,7 @@ This is an interactive dashboards leverage an HR analytics platform to deeply ex
 - Overtime Hours – Monitors workload balance.
 - Revenue per Employee – Links workforce efficiency to financial performance.
 - Dashboard Interaction <a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/HR%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
+-Summary <a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/Summary-HR%20Analysis%20Dashboard.png">Summary</a>
 
 ## Process
 - Identify Key HR Metrics
@@ -28,6 +29,8 @@ This is an interactive dashboards leverage an HR analytics platform to deeply ex
 
 ## Dashboard
 ![HR ANALYSIS DASHBOARD](https://github.com/user-attachments/assets/196870fa-7c8a-4258-865a-851e0437c809)
+![Summary-HR Analysis Dashboard](https://github.com/user-attachments/assets/cea48631-d423-4602-b795-9c8ea0be380d)
+
 
 ## Project Insight
 - Identified departments with the highest turnover rates and found a correlation between turnover and job satisfaction.
