@@ -15,8 +15,10 @@ This is an interactive dashboards leverage an HR analytics platform to deeply ex
 - Diversity & Inclusion Metrics – Tracks representation across different demographics.
 - Overtime Hours – Monitors workload balance.
 - Revenue per Employee – Links workforce efficiency to financial performance.
-- Dashboard Interaction <a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/HR%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
-- Summary <a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/Summary-HR%20Analysis%20Dashboard.png">Summary</a>
+## Dashboard Interaction
+<a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/HR%20ANALYSIS%20DASHBOARD.png">View Dashboard</a>
+## Summary 
+<a href="https://github.com/Janastark07/HR-Analysis-DashBoard/blob/main/Summary-HR%20Analysis%20Dashboard.png">Summary</a>
 
 ## Process
 - Identify Key HR Metrics
